@@ -1,0 +1,508 @@
+@media (max-width:992px){
+        /* start header */
+        .header
+        {
+                height: auto;
+        }
+        .headerlarge
+        {
+                height: auto;
+        }
+        .header .headerlargedescr
+        {
+                padding-top: 30px;
+        }
+        /* end header */
+
+        /* start navbar */
+        .navhead .navbar-nav > li
+        {
+                font-size: 16px;
+        }
+
+        /* endnavbar */
+        /* start team */
+        .ourteam .ourteamprofile .box, .ourteam .ourteamprofilea .box, .ourteam .ourteamprofileb .box, .ourteam .ourteamprofilec .box
+        {
+                width: 100%;
+        }
+        /* end team */
+
+        /* starting our portfolio */
+        .portfolio .porfolio-selected ul
+        {
+                padding-left: 0;
+                margin-left: 66px;
+        }
+
+        /* ending our portfoilio */
+        /* starting pricing */
+        .pricing .pricing-description
+        {
+                width: 100%;
+        }
+
+        /* ending pricing */
+
+        /* starting footer */
+        .footer label
+        {
+                margin-left: 0;
+        }
+        /* ending footer */
+
+
+}
+
+
+
+
+@media (max-width:768px)
+{
+        /* starting header */
+        .header
+        {
+                height: auto;
+        }
+        .headerlarge
+        {
+                height: auto;
+        }
+        .header .headerlargedescr
+        {
+                padding-top: 23px;
+        }
+        .header .headerlargedescr h1
+        {
+                font-size: 80px;
+                letter-spacing: 1px;
+                line-height: 1.2;            
+        }
+        .header .headerlargedescr button
+        {
+                margin: 17px 20px;
+        }
+
+        /* ending header */
+
+        /* start navbar */
+        .navhead .navbar-nav > li
+        {
+                font-size: 12px;
+        }
+        .navhead .collapse
+        {
+                margin-left:79px;
+                position: relative;
+        }
+        .navhead .navbar-nav button
+        {
+                position: absolute;
+                bottom: 8px;;
+                right: -576px;
+        }
+        .navhead .navbar-nav button i {
+                padding: 6px;
+                font-size: 16px;
+            }
+
+        /*end navbar */
+        /* start features */
+        .ourfeatures .features {
+                margin-top: 28px;
+            }
+            .ourfeatures .features hr
+            {
+                    display: none;
+            }
+
+        /* end features */
+
+        /* start market */
+        .market
+        {
+                height: auto;
+        }
+        .market .marketopacity
+        {
+                height: auto;
+
+        }
+        .market .marketopacity button
+        {
+                margin-bottom: 23px;
+        }
+
+        /* end market */
+
+        /* start our team */
+        .ourteam .ourteamprofile .box, .ourteam .ourteamprofilea .box, .ourteam .ourteamprofileb .box, .ourteam .ourteamprofilec .box
+        {
+                margin: auto;
+                width: 243px;
+        }
+
+        .ourteam .ourteamprofile , .ourteam .ourteamprofilea , .ourteam .ourteamprofileb , .ourteam .ourteamprofilec 
+        {
+                margin-bottom: 15px;
+        }
+
+        /* end our team */
+
+        /* start our sevices */
+        .ourservices .services-pro
+        {
+                text-align: center;
+        }
+        .ourservices .services-pro i
+        {
+                color: #0CA948;
+        }
+
+        /* end our services */
+
+        /* starting our portfolio */
+        .portfolio .porfolio-selected ul
+        {
+                padding-left: 0;
+        }
+        .portfolio .porfolio-selected ul li
+        {
+                margin-bottom: 10px;
+        }
+        .portfolio .row 
+        {
+                text-align: center;
+        }
+
+        /* ending our porfolio */
+
+        /* starting our followers */
+        .ourfollowers
+        {
+                height: auto;
+        }
+        .ourfollowers .ourfollowers-color
+        {
+                height: auto;
+        }
+        .ourfollowers .followprofile
+        {
+                margin-bottom: 15px;
+        }
+
+        /* ending our followers */
+
+        /* starting pricing */
+        .pricing .col-md-3
+        {
+                margin-left: 27%;
+        }
+
+        /* ending pricing */
+
+        /* starting contact us */
+        .contactus
+        {
+                height: auto;
+        }
+        .contactus .contactus-background
+        {
+                height: auto;
+
+        }
+        .pricing .pricing-description
+        {
+                width: 294px;        }
+
+        /* ending contact us */
+
+        /* start footer */      
+        .footer label
+        {
+                margin-left: 0;
+        }
+
+        /* end footer */
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/* screen 520 */
+@media (max-width:520px)
+{
+        /* starting with header */
+        .header
+        {
+                height: auto;
+        }
+        .headerlarge
+        {
+                height: auto;
+        }
+        .header .headerlargedescr
+        {
+                padding-top: 52px;
+                
+        }
+        .header .headerlargedescr h1
+        {
+                font-size: 67px;
+                line-height: 0.8;
+                letter-spacing: 1px;
+        }
+
+        .header .headerlargedescr button
+        {
+                
+                margin:34px 20px;
+                
+        }
+
+
+        /* Ending with header */
+
+        /* starting our features */
+        .ourfeatures p
+        {
+                font-size: 19px;
+                font-weight: 800;
+                line-height: 1.6;
+                letter-spacing: 0;
+        }
+
+        .ourfeatures .features
+        {
+                margin-top: 28px;
+                
+        }
+
+        .ourfeatures .features i
+        {
+                border: 2px solid;
+                padding: 44px;
+                font-size: 38px;
+                margin-bottom: 16px;
+        }
+        .ourfeatures .features h4
+        {
+                font-size: 27px;
+                font-weight: 400;
+                letter-spacing: 3px;
+                line-height: 1.2;
+        }
+
+        .ourfeatures .features hr
+        {
+                display: none;
+        }
+
+        .ourfeatures .features p
+        {
+                font-size: 20px;
+                line-height: 1.7;
+                margin-bottom: 57px;
+                
+        }
+
+        /* ending our features */
+
+        /* starting new design */
+        .newdesgin .newdesigndes h1
+        {
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.7;
+                
+            
+        }
+        .newdesgin .newdesigndes hr
+        {
+                border: 2px solid #898989;
+                
+        }
+        .newdesgin .newdesigndes p
+        {
+                font-size: 20px;
+                letter-spacing: 1px;
+        }
+
+        /* ending new design */
+
+        /* starting new market */
+        .market
+        {
+                height: auto;
+        }
+        .market .marketopacity
+        {
+                height: auto;
+        }
+        .market .marketopacity button
+        {
+                margin-bottom: 20px;
+                
+        }
+
+        /* ending new market */
+
+        /* startig team */
+        .ourteam .ourteamdescripton h1
+        {
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.2;
+        }
+        .ourteam .ourteamdescripton p
+        {
+                font-weight: 700;
+                font-size: 19px;
+        }
+        .ourteam .ourteamprofile .box, .ourteam .ourteamprofilea .box, .ourteam .ourteamprofileb .box, .ourteam .ourteamprofilec .box
+        {
+                margin: 0 auto;    
+                width: 234px;         
+                
+        }
+        .ourteam .ourteamprofile h3, .ourteam .ourteamprofilea h3, .ourteam .ourteamprofileb h3, .ourteam .ourteamprofilec h3
+        {
+                font-size: 35px;
+                letter-spacing: 1px;
+                line-height: 1.3;
+        }
+        .ourteam .ourteamprofile , .ourteam .ourteamprofilea , .ourteam .ourteamprofileb , .ourteam .ourteamprofilec 
+        {
+                margin-bottom: 30px;
+                
+        }
+        .ourteam .ourteamprofile span, .ourteam .ourteamprofilea span, .ourteam .ourteamprofileb span, .ourteam .ourteamprofilec span
+        {
+                font-weight: 500;
+                font-size: 18px;
+                
+                
+        }
+
+        /* ending team */
+
+        /* starting services */
+        .ourservices .ourservicesdescripton h1
+        {
+                font-size: 43px;
+                letter-spacing: 1px;
+        }
+        .ourservices .ourservicesdescripton p
+        {
+                font-weight: 700;
+                font-size: 19px;                
+                line-height: 1.7;
+        }
+        .ourservices .row
+        {
+                text-align: center;
+
+        }
+        .ourservices .services-pro i
+        {
+                color: #0CA948;
+        }
+        .ourservices .services-pro p
+        {
+                font-size: 29px;
+                
+        }
+
+        /* ending services */
+
+        /* starting our portfoilio */
+        .portfolio .porfolio-selected ul
+        {
+                padding-left: 0;
+                text-align: center;
+                margin-left: 0;
+                
+        }
+        .portfolio .porfolio-selected ul li
+        {
+                padding: 10px 27px;
+        }
+        .portfolio .porfolio-selected ul li:nth-child(5),.portfolio .porfolio-selected ul li:nth-child(6)
+        {
+                margin-top: 17px;
+        }
+
+        .portfolio .porfolio-selected ul li:hover,
+        .portfolio .porfolio-selected ul .active
+        {
+                border: 0;
+        }
+
+        .portfolio .shuffle-images
+        {
+                text-align: center;
+        }
+
+        /* ending our portfolio */
+
+        /* starting our followers */
+        .ourfollowers
+        {
+                height: auto;
+        }
+        .ourfollowers .ourfollowers-color
+        {
+                height: auto;
+        }
+        .ourfollowers .followprofile
+        {
+                margin-bottom: 20px;
+        }
+
+        /* ending our followers */
+
+        /* starting pricing */
+        .pricing .pricing-description
+        {
+                margin: 20px auto;
+        }
+        .pricing .col-md-3
+        {
+                margin-left: 0;
+        }
+
+        /* ending pricing */
+        /* startcontact us  */
+        .contactus
+        {
+                height: auto;
+        }
+        .contactus .contactus-background
+        {
+                height: auto;
+        }
+        .footer .social-icons i
+        {
+                margin-bottom: 11px;
+        }
+
+        /*end contact us  */
+
+        /* start footer */
+        .footer label
+        {
+                margin-left: 0;
+        }
+
+        /* end footer */
+
+
+}
